@@ -13,4 +13,4 @@ background-size: cover;
 .color_primario:hover { background-color: #ECE3C0; }
 .color_secundario:hover { background-color: #F6F6A9; }
 
-.Trnsp { filter:alpha(opacity=60); opacity:0.6; }
+.Trnsp { filter:alpha(opacity=80); opacity:0.80; }
