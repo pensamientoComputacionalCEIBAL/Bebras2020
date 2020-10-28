@@ -14,3 +14,5 @@ background-size: cover;
 .color_secundario:hover { background-color: #F6F6A9; }
 
 .Trnsp { filter:alpha(opacity=80); opacity:0.80; }
+
+.imagenEfecto:hover {filter: saturate(180%);}
